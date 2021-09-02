@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yomar0498
 - 👀 I’m interested in ... Machine Learning and Computational Biology
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Anything related to my interests
+- 💞️ I’m looking to collaborate on ... Projects related to Bioinformatics
 - 📫 How to reach me ... yomar0498@gmail.com
 
 <!---
